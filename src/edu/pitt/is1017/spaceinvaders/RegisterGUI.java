@@ -104,8 +104,6 @@ public class RegisterGUI
 		mainFrame.getContentPane().add(txtConPassword);
 		txtConPassword.setColumns(10);
 		
-		
-		
 		mainFrame.setVisible(true);
 		
 		//exits program if you close the window
